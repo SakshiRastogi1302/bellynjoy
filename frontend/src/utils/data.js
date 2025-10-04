@@ -7,7 +7,7 @@ export const sample_foods = [
         favorite:false,
         origins:['italy'],
         stars:4.5,
-        imageUrl:'food-1.jpg',
+        imageUrl:'food-1.jpeg',
         tags:['FastFood','Pizza','Lunch'],
         type:'Non-Veg'
     },
@@ -19,7 +19,7 @@ export const sample_foods = [
         favorite:true,
         origins:['persia','middle-east','china'],
         stars:5,
-        imageUrl:'food-2.jpg',
+        imageUrl:'food-2.jpeg',
         tags:['Starter','Snack','Dinner'],
         type:'Non-Veg'
     },
@@ -31,7 +31,7 @@ export const sample_foods = [
         favorite:false,
         origins:['germany','us'],
         stars:4,
-        imageUrl:'food-3.jpg',
+        imageUrl:'food-3.jpeg',
         tags:['FastFood','Burger','Dinner'],
         type:'Non-Veg'
     },
@@ -43,7 +43,7 @@ export const sample_foods = [
         favorite:true,
         origins:['us'],
         stars:4.2,
-        imageUrl:'food-4.jpg',
+        imageUrl:'food-4.jpeg',
         tags:['FastFood','Chicken','Snack'],
         type:'Non-Veg'
     },
@@ -55,7 +55,7 @@ export const sample_foods = [
         favorite:false,
         origins:['india'],
         stars:4.8,
-        imageUrl:'food-5.jpg',
+        imageUrl:'food-5.jpeg',
         tags:['Veg','Healthy','Dinner'],
         type:'Veg'
     },
@@ -67,7 +67,7 @@ export const sample_foods = [
         favorite:true,
         origins:['japan'],
         stars:5,
-        imageUrl:'food-6.jpg',
+        imageUrl:'food-6.webp',
         tags:['Seafood','Dinner'],
         type:'Non-Veg'
     },
@@ -79,7 +79,7 @@ export const sample_foods = [
         favorite:false,
         origins:['italy'],
         stars:4.3,
-        imageUrl:'food-7.jpg',
+        imageUrl:'food-7.jpeg',
         tags:['Pasta','Lunch','Dinner'],
         type:'Non-Veg'
     },
@@ -91,7 +91,7 @@ export const sample_foods = [
         favorite:true,
         origins:['india'],
         stars:4.7,
-        imageUrl:'food-8.jpg',
+        imageUrl:'food-8.jpeg',
         tags:['Veg','Starter','Indian'],
         type:'Veg'
     },
@@ -103,7 +103,7 @@ export const sample_foods = [
         favorite:false,
         origins:['italy'],
         stars:4.1,
-        imageUrl:'food-9.jpg',
+        imageUrl:'food-9.jpeg',
         tags:['Salad','Healthy','Veg'],
         type:'Veg'
     },
@@ -115,7 +115,7 @@ export const sample_foods = [
         favorite:true,
         origins:['india'],
         stars:4.9,
-        imageUrl:'food-10.jpg',
+        imageUrl:'food-10.jpeg',
         tags:['Chicken','Dinner','Indian'],
         type:'Non-Veg'
     },
@@ -127,7 +127,7 @@ export const sample_foods = [
         favorite:false,
         origins:['mexico'],
         stars:4.4,
-        imageUrl:'food-11.jpg',
+        imageUrl:'food-11.webp',
         tags:['FastFood','Snack','Dinner'],
         type:'Non-Veg'
     },
@@ -139,7 +139,7 @@ export const sample_foods = [
         favorite:true,
         origins:['japan'],
         stars:4.6,
-        imageUrl:'food-12.jpg',
+        imageUrl:'food-12.jpeg',
         tags:['Noodles','Soup','Dinner'],
         type:'Non-Veg'
     },
@@ -151,7 +151,7 @@ export const sample_foods = [
         favorite:false,
         origins:['middle-east'],
         stars:4.2,
-        imageUrl:'food-13.jpg',
+        imageUrl:'food-13.webp',
         tags:['Veg','Snack','Wrap'],
         type:'Veg'
     },
@@ -163,7 +163,7 @@ export const sample_foods = [
         favorite:true,
         origins:['india'],
         stars:4.8,
-        imageUrl:'food-14.jpg',
+        imageUrl:'food-14.jpeg',
         tags:['Veg','Breakfast','South-Indian'],
         type:'Veg'
     },
@@ -175,7 +175,7 @@ export const sample_foods = [
         favorite:true,
         origins:['india'],
         stars:5,
-        imageUrl:'food-15.jpg',
+        imageUrl:'food-15.webp',
         tags:['Rice','Dinner','Indian'],
         type:'Non-Veg'
     },
@@ -187,7 +187,7 @@ export const sample_foods = [
         favorite:false,
         origins:['india'],
         stars:4.5,
-        imageUrl:'food-16.jpg',
+        imageUrl:'food-16.jpeg',
         tags:['Veg','Breakfast','South-Indian'],
         type:'Veg'
     },
@@ -199,7 +199,7 @@ export const sample_foods = [
         favorite:true,
         origins:['turkey','middle-east'],
         stars:4.3,
-        imageUrl:'food-17.jpg',
+        imageUrl:'food-17.webp',
         tags:['Wrap','Non-Veg','Snack'],
         type:'Non-Veg'
     },
@@ -211,7 +211,7 @@ export const sample_foods = [
         favorite:false,
         origins:['china'],
         stars:4.1,
-        imageUrl:'food-18.jpg',
+        imageUrl:'food-18.webp',
         tags:['Snack','Starter','Veg'],
         type:'Veg'
     },
@@ -223,7 +223,7 @@ export const sample_foods = [
         favorite:true,
         origins:['india'],
         stars:4.9,
-        imageUrl:'food-19.jpg',
+        imageUrl:'food-19.webp',
         tags:['Dessert','Sweet','Indian'],
         type:'Veg'
     },
@@ -235,7 +235,7 @@ export const sample_foods = [
         favorite:true,
         origins:['us'],
         stars:4.6,
-        imageUrl:'food-20.jpg',
+        imageUrl:'food-20.jpeg',
         tags:['Dessert','Sweet','Cold'],
         type:'Veg'
     }
