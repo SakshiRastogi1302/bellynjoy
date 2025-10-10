@@ -32,7 +32,7 @@ const HeaderComponent = () => {
           </li>
           <li>
             <Link to='/' className='flex space-x-1'>
-              <span><i class="fa-solid fa-cart-shopping"></i>Cart</span> 
+              <span><i className="fa-solid fa-cart-shopping"></i>Cart</span> 
               <span className='w-6 h-6 bg-[#e72929] text-white rounded-full flex justify-center'>{cart.totalCount}</span>
             </Link>
           </li>
