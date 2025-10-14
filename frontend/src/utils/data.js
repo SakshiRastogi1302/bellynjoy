@@ -6,7 +6,7 @@ export const sample_foods = [
         price:'₹450',
         favorite:false,
         origins:['italy'],
-        stars:4.5,
+        stars:1.2,
         imageUrl:'food-1.jpeg',
         tags:['FastFood','Pizza','Lunch'],
         type:'Non-Veg'
@@ -18,7 +18,7 @@ export const sample_foods = [
         price:'₹300',
         favorite:true,
         origins:['persia','middle-east','china'],
-        stars:5,
+        stars:2.5,
         imageUrl:'food-2.jpeg',
         tags:['Starter','Snack','Dinner'],
         type:'Non-Veg'
@@ -162,7 +162,7 @@ export const sample_foods = [
         price:'₹180',
         favorite:true,
         origins:['india'],
-        stars:4.8,
+        stars:3.8,
         imageUrl:'food-14.jpeg',
         tags:['Veg','Breakfast','South-Indian'],
         type:'Veg'
@@ -222,7 +222,7 @@ export const sample_foods = [
         price:'₹150',
         favorite:true,
         origins:['india'],
-        stars:4.9,
+        stars:2.9,
         imageUrl:'food-19.webp',
         tags:['Dessert','Sweet','Indian'],
         type:'Veg'
@@ -234,9 +234,37 @@ export const sample_foods = [
         price:'₹180',
         favorite:true,
         origins:['us'],
-        stars:4.6,
+        stars:3.6,
         imageUrl:'food-20.jpeg',
         tags:['Dessert','Sweet','Cold'],
         type:'Veg'
     }
 ];
+
+
+export const sample_tags = [
+    {name:'All', count:20},
+    {name:'FastFood', count:4},
+    {name:'Pizza', count:1},
+    {name:'Breakfast', count:2},
+    {name:'Lunch', count:2},
+    {name:'Snack', count:6},
+    {name:'Starter', count:3},
+    {name:'Dinner', count:9},
+    {name:'Burger', count:1},
+    {name:'Soup', count:1},
+    {name:'Chicken', count:2},
+    {name:'Veg', count:7},
+    {name:'Non-Veg', count:1},
+    {name:'Healthy', count:2},
+    {name:'Seafood', count:1},
+    {name:'Pasta', count:1},
+    {name:'Indian', count:4},
+    {name:'Salad', count:1},
+    {name:'Noodles', count:1},
+    {name:'Wrap', count:2},
+    {name:'South-Indian', count:2},
+    {name:'Rice', count:1},
+    {name:'Dessert', count:2},
+    {name:'Sweet', count:2}
+]
